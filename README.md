@@ -1,5 +1,5 @@
 # Jeff Bostian
-**About Me**
+**About Me**<br>
 Introduce yourself briefly and mention your skills, experience, and goals. This section should include your contact information (email, LinkedIn, website, etc.).
 
 **Education**<br>
