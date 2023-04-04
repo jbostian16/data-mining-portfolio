@@ -1,16 +1,16 @@
 # Jeff Bostian
-**About Me**<br>
+## About Me<br>
 Hello, my name is Jeff Bostian and I am a senior at Catawba College pursuing a Bachelor's of Science in Information Technology. Most of my experience is in Python but I have also worked with other programming languages like Java and PHP; scripting languages Shell/Bash, Batch, and Powershell; and web technologies HTML5 CSS3, Javascript, and Bootstrap. My goals are to become more familiar with programming as a whole and expand my career opportunities.<br>
 **Email:** jbostian16@catawba.edu <br>
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jeffrey-bostian-1a188456/)<br>
 
-**Education**<br>
+## Education<br>
 Bachelor of Science: Information Technology *candidate* May 2023 <br>
 Catawba College -- Salisbury, NC <br>
 Associate in Office Administration October 2012 <br>
 King's College -- Charlotte, NC <br>
 
-**Skills**<br>
+## Skills<br>
 * Python
 * PHP
 * Java
@@ -21,7 +21,7 @@ King's College -- Charlotte, NC <br>
 * Javascript
 * Bootstrap <br>
 
-**Projects**<br>
+## Projects<br>
 **Coming Soon!**<br>
 <!--- List some of your sample projects, including the name, description, and links to their GitHub repositories and live demos (if applicable). --->
 
@@ -46,7 +46,7 @@ GitHub repository: link
 
 Live demo: link (if applicable) --->
 
-**Experience**<br>
+## Experience<br>
 **Catawba College**, Salisbury, NC -- November 2022 - Current <br>
 
 **Programmer Analyst** <br>
@@ -75,6 +75,6 @@ Live demo: link (if applicable) --->
 * Creation and management of virtual machines 
 * Assisted with frontline migration from Novell to Active Directory <br>
 
-<!---**References**<br>
+<!---## References<br>
 Include references (if applicable) who can attest to your skills and experience.
 --->
